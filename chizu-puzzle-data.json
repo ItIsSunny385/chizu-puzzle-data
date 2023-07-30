@@ -9,7 +9,7 @@
     "maxX": 14,
     "minY": 5,
     "maxY": 6,
-    "emptyPieceIds": ["0-0-0-0"]
+    "emptyPieceIds": ["0-1-1-0"]
   },
   "japan02": {
     "title": "日本地図２",
