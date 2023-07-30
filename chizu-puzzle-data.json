@@ -8,7 +8,8 @@
     "minX": 13,
     "maxX": 14,
     "minY": 5,
-    "maxY": 6
+    "maxY": 6,
+    "emptyPieceIds": ["0-0-0-0"]
   },
   "japan02": {
     "title": "日本地図２",
@@ -19,6 +20,43 @@
     "minX": 26,
     "maxX": 29,
     "minY": 10,
-    "maxY": 13
+    "maxY": 13,
+    "emptyPieceIds": []
+  },
+  "hokkaido01": {
+    "title": "北海道",
+    "description": "北海道の地図パズルです。一度は行ってみたい北海道です。",
+    "level": 2,
+    "url": "https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+    "z": 7,
+    "minX": 113,
+    "maxX": 116,
+    "minY": 45,
+    "maxY": 47,
+    "emptyPieceIds": []
+  },
+  "touhoku_chihou01": {
+    "title": "東北地方",
+    "description": "東北地方の地図パズルです。仙台や会津など有名な観光地があります。",
+    "level": 2,
+    "url": "https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+    "z": 7,
+    "minX": 113,
+    "maxX": 114,
+    "minY": 47,
+    "maxY": 49,
+    "emptyPieceIds": []
+  },
+  "kanto_chihou01": {
+    "title": "関東地方",
+    "description": "関東地方の地図パズルです。日本の首都、東京があります。",
+    "level": 2,
+    "url": "https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+    "z": 8,
+    "minX": 226,
+    "maxX": 228,
+    "minY": 99,
+    "maxY": 101,
+    "emptyPieceIds": []
   }
 }
